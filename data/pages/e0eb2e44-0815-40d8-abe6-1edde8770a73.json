@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-03-03T20:27:45.577Z",
+  "created_by": "tanyaclement",
+  "title": "testing GBH links",
+  "slug": "testing-gbh-links",
+  "updated_at": "2025-03-03T20:27:45.577Z",
+  "updated_by": "tanyaclement",
+  "parent": "8e361a06-186b-4f79-9bd0-e5a4688fa86f",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "2464037a-87c2-4e40-978d-072650e08cab"
+  }
+}
